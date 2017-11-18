@@ -1,0 +1,12 @@
+{
+  "name": "gladys-sonoff",
+  "version": "0.1.0",
+  "description": "Gladys hooks for sending http request to Sonoff.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Dubois",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {}
+}
