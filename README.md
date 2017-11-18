@@ -4,9 +4,14 @@ Gladys hooks to control Sonoff over http.
 
 Need Gladys version >= 3.0.0.
 
+## Prerequisites
+
+To use this module, you must flash your Sonoff module with this firmware:  
+https://github.com/arendst/Sonoff-Tasmota
+
 ## Documentation
 
-To install this module : 
+To install this module: 
 
 On the Module / Advanced Gladys screen, manually install the module with the following information:  
 Name: Sonoff  
