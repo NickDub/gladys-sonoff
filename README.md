@@ -11,7 +11,7 @@ To install this module :
 On the Module / Advanced Gladys screen, manually install the module with the following information:  
 Name: Sonoff  
 Version: 0.1.0  
-URL: https://github.com/NicolasD-62/gladys-sonoff  
+URL: https://github.com/NicolasD-62/gladys-sonoff.git  
 Slug: sonoff  
 
 Restart Gladys
