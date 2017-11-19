@@ -29,7 +29,7 @@ Service: sonoff
 Room: Where is the Sonoff
 
 Then edit this device and add a devicetype with the following information:  
-Identifier: power  
+Identifier: Power (if device has more then 1 switch, add switch number: Power1, Power2, ...)  
 Type: binary  
 Unity: binary  
 Min: 0  

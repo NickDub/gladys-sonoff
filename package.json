@@ -8,5 +8,7 @@
   },
   "author": "Nicolas Dubois",
   "license": "CC-BY-NC-SA-3.0",
-  "dependencies": {}
+  "dependencies": {
+    "net-ping": "^1.2.1"
+  }
 }
