@@ -9,6 +9,6 @@
   "author": "Nicolas Dubois",
   "license": "CC-BY-NC-SA-3.0",
   "dependencies": {
-    "net-ping": "^1.2.1"
+    "node-nmap": "^3.0.3"
   }
 }
