@@ -8,5 +8,7 @@
   },
   "author": "Nicolas Dubois",
   "license": "CC-BY-NC-SA-3.0",
-  "dependencies": {}
+  "dependencies": {
+    "mqtt": "^2.14.0"
+  }
 }
