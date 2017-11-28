@@ -29,7 +29,7 @@ On the Gladys Devices screen, add a new device with the following information:
 + **for HTTP** : IP of the Sonoff (if device has more then 1 switch, add switch number: IP\_1, IP\_2, ...)  
 + **for MQTT** : %topic% (of the sonoff config screen) (if device has more then 1 switch, add switch number: %topic%\_1, %topic%\_2, ...)  
 
-**Protocol:** wifi or mqtt  
+**Protocol:** http or mqtt  
 **Service:** sonoff  
 **Room:** Where is the Sonoff
 
