@@ -1,14 +1,26 @@
 {
   "name": "gladys-sonoff",
-  "version": "0.1.0",
-  "description": "Gladys hooks for sending http request to Sonoff.",
+  "version": "0.2.0",
+  "description": "Gladys module to control Sonoff over http or mqtt.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickDub/gladys-sonoff.git"
+  },
+  "keywords": [
+    "gladys",
+    "sonoff"
+  ],
   "author": "Nicolas Dubois",
-  "license": "CC-BY-NC-SA-3.0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NickDub/gladys-sonoff/issues"
+  },
+  "homepage": "https://github.com/NickDub/gladys-sonoff#readme",
   "dependencies": {
-    "mqtt": "^2.14.0"
+    "mqtt": "^2.18.8"
   }
 }
