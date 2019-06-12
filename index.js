@@ -1,8 +1,9 @@
 module.exports = function (sails) {
+	const install = require('./lib/install');
+	const exec = require('./lib/exec');
 
-    var exec = require('./lib/exec.js');
-
-    return {
-        exec,
-    };
+	return {
+		install: install,
+		exec: exec
+	};
 };

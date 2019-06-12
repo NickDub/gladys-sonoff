@@ -1,6 +1,6 @@
 {
   "name": "gladys-sonoff",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Gladys module to control Sonoff over http or mqtt.",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/NickDub/gladys-sonoff#readme",
   "dependencies": {
-    "mqtt": "^2.18.8"
+    "mqtt": "^3.0.0"
   }
 }
