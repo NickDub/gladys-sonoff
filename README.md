@@ -1,4 +1,4 @@
-![gladys version](https://badgen.net/badge/Gladys/%3E=%203.9/purple)
+![gladys version](https://badgen.net/badge/Gladys/%3E=%203.0.0/purple)
 ![license](https://badgen.net/github/license/NickDub/gladys-sonoff)
 [![dependencies Status](https://badgen.net/david/dep/NickDub/gladys-sonoff)](https://david-dm.org/NickDub/gladys-sonoff)
 
