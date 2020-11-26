@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/NickDub/gladys-sonoff#readme",
   "dependencies": {
-    "mqtt": "^4.2.4"
+    "mqtt": "^4.2.6"
   }
 }
